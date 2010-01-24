@@ -1,0 +1,5 @@
+SwfBeds
+
+Swf background encapsulation dynamics
+
+A flash replacement technique. Used to emulate block level html element structure using a dynamically injected swf file. Allows for use of common gotcha design techniques: rounded corners, transparency, liquid layouts. On all browsers that support flash 8 or higher.
